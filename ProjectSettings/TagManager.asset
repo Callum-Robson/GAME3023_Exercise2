@@ -49,6 +49,9 @@ TagManager:
   - name: Ground
     uniqueID: 2072706169
     locked: 0
+  - name: Cliffs-1
+    uniqueID: 1261977871
+    locked: 0
   - name: OnGround
     uniqueID: 2160484827
     locked: 0
@@ -60,4 +63,7 @@ TagManager:
     locked: 0
   - name: Sky
     uniqueID: 3385953419
+    locked: 0
+  - name: Player
+    uniqueID: 3084796725
     locked: 0
