@@ -32,7 +32,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &9041831068830453874
 SpriteRenderer:
@@ -83,7 +83,7 @@ SpriteRenderer:
   m_Size: {x: 0.32, y: 0.32}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!114 &3262145292818736921
@@ -98,6 +98,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3968cd3d1a6b155419fe65e44b603f47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  destinationSpawn: EntranceFromDayTown
 --- !u!61 &4910232000617189554
 BoxCollider2D:
   m_ObjectHideFlags: 0

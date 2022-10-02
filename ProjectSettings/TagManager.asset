@@ -64,6 +64,9 @@ TagManager:
   - name: Sky
     uniqueID: 3385953419
     locked: 0
+  - name: Stairs
+    uniqueID: 3794161707
+    locked: 0
   - name: Player
     uniqueID: 3084796725
     locked: 0
